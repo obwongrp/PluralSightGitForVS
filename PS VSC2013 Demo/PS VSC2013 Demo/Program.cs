@@ -12,7 +12,7 @@ namespace PS_VSC2013_Demo
         {
             // Local changes
 
-            // Some more changes
+            // more changes
 
         }
     }
